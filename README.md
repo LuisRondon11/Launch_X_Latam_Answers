@@ -2,7 +2,8 @@
 
 Respuestas a las Pruebas del Curso de Launch X Latam Mision FrontEnd 2022/2023
 
-Para primera semana las practicas fueron las siquientes [AQUI](/01-INTRO Pruebas/).
+Para primera semana las practicas fueron las siquientes [AQUI]([tree/main/01-INTRO%20Pruebas](https://github.com/LuisRondon11/Launch_X_Latam_FrontEnd/tree/main/01-INTRO%20Pruebas)).
+Para primera semana las practicas fueron las siquientes [AQUI]().
 
 Para la segunda semana de clases las practicas fueron el maquetado de un sitio web con estilos basicos [Demostracion en Vivo](https://luisrondon11.github.io/Launch_X_Latam_FrontEnd/02-HTML/index.html).
 
